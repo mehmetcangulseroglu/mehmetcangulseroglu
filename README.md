@@ -1,6 +1,6 @@
 ## Github Foundations Badge
 
-[![GitHub Foundations Badge](https://images.credly.com/size/200x200/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/2e2b966b-fd55-4192-9141-7e5674f53ca8/public_url)
+[![GitHub Foundations Badge](https://images.credly.com/size/170x170/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/2e2b966b-fd55-4192-9141-7e5674f53ca8/public_url)
 
 
 <!--
