@@ -1,4 +1,6 @@
-## Hi there 👋
+## Merhaba Ben Mehmet Can Gülseroğlu
+
+[![GitHub Foundations Badge](https://images.credly.com/size/340x340/images/2e2b966b-fd55-4192-9141-7e5674f53ca8/github-foundations.png)](https://www.credly.com/badges/2e2b966b-fd55-4192-9141-7e5674f53ca8/public_url)
 
 <!--
 **mehmetcangulseroglu/mehmetcangulseroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
